@@ -17,6 +17,7 @@ Qt进行http通讯，仅提供get方法，put/post近似
 
 ## QtConcurrentExample(Blog)  
 Qt使用QtConcurrent并行计算高级API范例，请直接看博客  
-这是Qt独立的一个模块本不应写在这里，但与上面多线程写在一起可能更好
+其余多线程相关请看[QtCoreExamples
+](https://github.com/TechieL/QtCoreExamples#qthreadexampleblog) 
 * Blog：[Qt多线程-QtConcurrent并行运算高级API](http://techieliang.com/2017/12/608/)  
 * Blog：[Qt多线程-总结QThread-QThreadPool-QtConcurrent](http://techieliang.com/2017/12/616/)  
