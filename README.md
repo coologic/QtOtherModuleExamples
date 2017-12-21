@@ -21,3 +21,8 @@ Qt使用QtConcurrent并行计算高级API范例，请直接看博客
 ](https://github.com/TechieL/QtCoreExamples#qthreadexampleblog) 
 * Blog：[Qt多线程-QtConcurrent并行运算高级API](http://techieliang.com/2017/12/608/)  
 * Blog：[Qt多线程-总结QThread-QThreadPool-QtConcurrent](http://techieliang.com/2017/12/616/)  
+
+## SupportMulticlientsTcpserver
+Qt使用QTcpserver实现多客户端连接管理  
+* Blog：[QTcpServer实现多客户端连接](http://techieliang.com/2017/12/760/)  
+![pic](https://github.com/TechieL/MyBlogPictureBackup/raw/master/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87/QTcpServer%E5%AE%9E%E7%8E%B0%E5%A4%9A%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5/gif.gif)  

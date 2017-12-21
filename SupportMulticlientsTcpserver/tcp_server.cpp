@@ -8,7 +8,7 @@ TcpServer::TcpServer(QObject *parent)
 //析构函数
 TcpServer::~TcpServer() {
     for(tcp_server_private::TcpSocket *client : private_->clients.values()) {
-        client->waitForDisconnected();
+        client->disconnectFromHost();
         auto handle = client->socketDescriptor();
         client->deleteLater();
         //告知其他调用者 当前socket断开，避免有需要在socket后执行的方法
